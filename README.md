@@ -1,4 +1,5 @@
-# hello-world
+# TV show list
+You can explore tv show episodes and are release dates.
 
 ## Project setup
 ```
@@ -14,11 +15,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
